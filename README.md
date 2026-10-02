@@ -45,7 +45,7 @@ All results below use the de-duplicated data.
 
 ## How to Run
 ```bash
-git clone https://github.com/<your-username>/heart-disease-ml-project.git
+git clone https://github.com/VishalTheTechie/heart-disease-ml-project.git
 cd heart-disease-ml-project
 pip install -r requirements.txt
 jupyter notebook Heart_Disease_ML.ipynb
